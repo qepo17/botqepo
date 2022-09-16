@@ -15,7 +15,7 @@ Wanna make your own?
 - Create an app inside Twitter Developer
 - Login to your bot account
 - Setup [twurl](https://github.com/twitter/twurl)
-- Give access in you bot account to your app from Twitter Developer
+- Give access in your bot account to your app from Twitter Developer
 - Upload this app to your server, and set the Twitter Key in `config/config` or environment variable!
 
 ## Contribution
