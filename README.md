@@ -7,6 +7,10 @@ Supported by:
 - [OpenAI](https://openai.com/)
 - [Zenquotes](https://zenquotes.io/)
 
+## Example
+
+![image](https://user-images.githubusercontent.com/72207626/190944819-0adddec9-afef-4411-9c56-372ddfee8709.png)
+
 ## Setup
 
 Wanna make your own?
